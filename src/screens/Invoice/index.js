@@ -85,12 +85,11 @@ export default class Login extends Component {
                     </View>                    
                 </View>
                 <View style={styles.lineView}/>
-                
+
                 <View style={styles.lineView}/>
 
 
-
-                
+             
                 
 
             </View>
